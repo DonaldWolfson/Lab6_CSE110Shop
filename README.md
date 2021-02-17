@@ -1,6 +1,6 @@
 # CSE 110, Lab 6
 
-Donald Wolfson
+Donald Wolfson (A15417806)
 
 dwolfson@ucsd.edu
 
